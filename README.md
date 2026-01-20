@@ -73,5 +73,5 @@ Includes data related to:
 
 - Improved decision-making speed and clarity through a single, management-ready reporting view.
 
-6.Screenshot
+6. **Screenshot**
 ![Dashboard Preview](https://github.com/ganeshtutika0/Maven_market_dashboard/blob/main/Maven_market_report.png)
